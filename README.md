@@ -1,6 +1,6 @@
 ### Oh, hello 🤙✨
 
-- 🌱 Terminal biz card: `npx gingerlee`  
+🌱 Terminal biz card: `npx gingerlee`  
 
 ⚡⚡⚡
 
